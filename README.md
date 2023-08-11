@@ -1,3 +1,6 @@
+<p>1. run composer install when pulling the project 2. php artisan migrate:fresh --seed THIS IS TO MAKE DATA IN OUR DATABASE 3. you can log in with these credentials as I have seeded one user email:email@email.com password: password</p>
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
